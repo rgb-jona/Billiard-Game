@@ -11,3 +11,5 @@ Click right to cancel the shot during aiming.
 
 Press 'ESC' during the game to pause the game, restart the game or
 mute music/sound-effects.
+
+Music from https://www.bensound.com
